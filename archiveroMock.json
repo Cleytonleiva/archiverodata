@@ -1,34 +1,90 @@
 { 
-    participantes: [
-        "Turquesa":{
-            "participante": "Turquesa",
+    "participantes": [
+    {"Turquesa": {
+                "id":0,
+                "participante": "Turquesa",
+                "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
                 "ubicacion": {
-                    "Region": "IV",
-                    "Comuna": "Illapel, provincia ",
-                    "Territorio": "Provincia del Choapa",
-                    "Pais":"Chile"
-                   },
-            "id": 0,
+                        "Region": "IV",
+                        "Comuna": "Illapel, provincia ",
+                        "Territorio": "Provincia del Choapa",
+                        "Pais":"Chile"
+                        },
+                "categoria": 
+                [
+                    {
+                    "Amor":{
+                        "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj1.jpeg",
+                        "videoObjeto":"link",
+                        "cita1":"Abcde fghi jkl mn op qr",
+                        "cita2":"Abcde fghi jkl mn op qr"
+                        },
+                    "Miedo":{
+                        "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj2.jpeg",
+                        "videoObjeto":"link",
+                        "cita1":"Abcde fghi jkl mn op qr",
+                        "cita2":"Abcde fghi jkl mn op qr"
+                        },
+                    "Familia":{
+                        "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj3.jpeg",
+                        "videoObjeto":"link",
+                        "cita1":"Abcde fghi jkl mn op qr",
+                        "cita2":"Abcde fghi jkl mn op qr"
+                        },
+                    "Cuerpo":{
+                        "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj4.jpeg",
+                        "videoObjeto":"link",
+                        "cita1":"Abcde fghi jkl mn op qr",
+                        "cita2":"Abcde fghi jkl mn op qr"
+                    },
+                    "Libertad":{
+                        "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj5.jpeg",
+                        "videoObjeto":"link",
+                        "cita1":"Abcde fghi jkl mn op qr",
+                        "cita2":"Abcde fghi jkl mn op qr"
+                    },
+                    "Actosentido":{
+                        "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj6.jpeg",
+                        "videoObjeto":"link",
+                        "cita1":"Abcde fghi jkl mn op qr",
+                        "cita2":"Abcde fghi jkl mn op qr"
+                    }
+                    }
+                ]
+            }
+        },
+
+        {"Turquesa": {
+            "id":0,
+            "participante": "Katherine",
             "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
-            "categoria": {
+            "ubicacion": {
+                        "Region": "V",
+                        "Comuna": "Quillota",
+                        "Territorio": "",
+                        "Pais":"Chile" 
+                    },
+            "categoria": 
+            [
+                {
                 "Amor":{
                     "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj1.jpeg",
                     "videoObjeto":"link",
                     "cita1":"Abcde fghi jkl mn op qr",
                     "cita2":"Abcde fghi jkl mn op qr"
-                     },
+                    },
                 "Miedo":{
                     "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj2.jpeg",
                     "videoObjeto":"link",
                     "cita1":"Abcde fghi jkl mn op qr",
                     "cita2":"Abcde fghi jkl mn op qr"
-                     },
+                    },
                 "Familia":{
                     "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj3.jpeg",
                     "videoObjeto":"link",
                     "cita1":"Abcde fghi jkl mn op qr",
                     "cita2":"Abcde fghi jkl mn op qr"
-                     },
+                    },
                 "Cuerpo":{
                     "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj4.jpeg",
                     "videoObjeto":"link",
@@ -47,55 +103,12 @@
                     "cita1":"Abcde fghi jkl mn op qr",
                     "cita2":"Abcde fghi jkl mn op qr"
                 }
-            }
-        },
-    "participante": "Katherine",
-    "ubicacion": {
-        "Region": "V",
-        "Comuna": "Quillota",
-        "Territorio": "",
-        "Pais":"Chile" 
-    },
-        "id": 1,
-        "mainImg": "https://www.thetrevorproject.org/wp-content/uploads/2021/11/TTP_YouthPortrait_YellowBackdrop_Elijah.jpg",
-        "categoria": {
-            "familia":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "amor":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "cuerpo":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "miedo":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "actosentido":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "libertad":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            }
+                }
+            ]
         }
-]
-   
-}
+    }
+        ]
+        
+    }
+
+    
