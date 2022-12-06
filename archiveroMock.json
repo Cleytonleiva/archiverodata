@@ -8,40 +8,40 @@
                 "Pais":"Chile"
             },
         "id": 0,
-        "mainImg": "https://www.thetrevorproject.org/wp-content/uploads/2021/11/TTP_YouthPortrait_YellowBackdrop_Elijah.jpg",
+        "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
         "categoria": {
-            "Familia":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
             "Amor":{
-                "imgObjeto": "link",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "Cuerpo":{
-                "imgObjeto": "link",
+                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj1.jpeg",
                 "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
             "Miedo":{
-                "imgObjeto": "link",
+                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj2.jpeg",
                 "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
-            "Actosentido":{
-                "imgObjeto": "link",
+            "Familia":{
+                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj3.jpeg",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "Cuerpo":{
+                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj4.jpeg",
                 "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
             "Libertad":{
-                "imgObjeto": "link",
+                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj5.jpeg",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "Actosentido":{
+                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj6.jpeg",
                 "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
