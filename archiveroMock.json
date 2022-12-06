@@ -1,53 +1,54 @@
-{
-    "Turquesa":{
-        "participante": "Turquesa",
-        "ubicacion": {
-                "Region": "IV",
-                "Comuna": "Illapel, provincia ",
-                "Territorio": "Provincia del Choapa",
-                "Pais":"Chile"
-            },
-        "id": 0,
-        "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
-        "categoria": {
-            "Amor":{
-                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj1.jpeg",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "Miedo":{
-                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj2.jpeg",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "Familia":{
-                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj3.jpeg",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "Cuerpo":{
-                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj4.jpeg",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "Libertad":{
-                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj5.jpeg",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
-            },
-            "Actosentido":{
-                "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj6.jpeg",
-                "videoObjeto":"link",
-                "cita1":"Abcde fghi jkl mn op qr",
-                "cita2":"Abcde fghi jkl mn op qr"
+{ 
+    participantes: [
+        "Turquesa":{
+            "participante": "Turquesa",
+                "ubicacion": {
+                    "Region": "IV",
+                    "Comuna": "Illapel, provincia ",
+                    "Territorio": "Provincia del Choapa",
+                    "Pais":"Chile"
+                   },
+            "id": 0,
+            "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
+            "categoria": {
+                "Amor":{
+                    "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj1.jpeg",
+                    "videoObjeto":"link",
+                    "cita1":"Abcde fghi jkl mn op qr",
+                    "cita2":"Abcde fghi jkl mn op qr"
+                     },
+                "Miedo":{
+                    "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj2.jpeg",
+                    "videoObjeto":"link",
+                    "cita1":"Abcde fghi jkl mn op qr",
+                    "cita2":"Abcde fghi jkl mn op qr"
+                     },
+                "Familia":{
+                    "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj3.jpeg",
+                    "videoObjeto":"link",
+                    "cita1":"Abcde fghi jkl mn op qr",
+                    "cita2":"Abcde fghi jkl mn op qr"
+                     },
+                "Cuerpo":{
+                    "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj4.jpeg",
+                    "videoObjeto":"link",
+                    "cita1":"Abcde fghi jkl mn op qr",
+                    "cita2":"Abcde fghi jkl mn op qr"
+                },
+                "Libertad":{
+                    "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj5.jpeg",
+                    "videoObjeto":"link",
+                    "cita1":"Abcde fghi jkl mn op qr",
+                    "cita2":"Abcde fghi jkl mn op qr"
+                },
+                "Actosentido":{
+                    "imgObjeto": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00obj6.jpeg",
+                    "videoObjeto":"link",
+                    "cita1":"Abcde fghi jkl mn op qr",
+                    "cita2":"Abcde fghi jkl mn op qr"
+                }
             }
-        }
-    },
+        },
     "participante": "Katherine",
     "ubicacion": {
         "Region": "V",
@@ -95,4 +96,6 @@
                 "cita2":"Abcde fghi jkl mn op qr"
             }
         }
+]
+   
 }
