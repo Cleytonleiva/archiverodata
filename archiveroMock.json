@@ -1,8 +1,8 @@
 { 
     "participantes": [
-    {"Turquesa": {
+    {"00": {
                 "id":0,
-                "participante": "Turquesa",
+                "nombreParticipante": "Turquesa",
                 "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
                 "ubicacion": {
                         "Region": "IV",
@@ -54,9 +54,9 @@
             }
         },
 
-        {"Turquesa": {
-            "id":0,
-            "participante": "Katherine",
+        {"01": {
+            "id":1,
+            "nombreParticipante": "Katherine",
             "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
             "ubicacion": {
                         "Region": "V",
