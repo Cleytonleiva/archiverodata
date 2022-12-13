@@ -1,6 +1,6 @@
 { 
     "participantes": [
-    {"00": {
+        {
                 "id":0,
                 "nombreParticipante": "Turquesa",
                 "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
@@ -51,10 +51,10 @@
                     }
                     }
                 ]
-            }
-        },
+            },
 
-        {"01": {
+
+            {
             "id":1,
             "nombreParticipante": "Katherine",
             "mainImg": "https://raw.githubusercontent.com/Cleytonleiva/ArchiveroIMG/main/p00.jpeg",
@@ -106,7 +106,7 @@
             }
             ]
             }
-        }
+        
         ]
 }
 
